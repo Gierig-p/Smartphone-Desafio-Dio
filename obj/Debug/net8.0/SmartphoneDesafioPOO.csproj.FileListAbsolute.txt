@@ -1,0 +1,14 @@
+E:\Área de Trabalho\ㅤㅤㅤㅤㅤㅤㅤ\codigos-C#\SmartphoneDesafioPOO\bin\Debug\net8.0\SmartphoneDesafioPOO.exe
+E:\Área de Trabalho\ㅤㅤㅤㅤㅤㅤㅤ\codigos-C#\SmartphoneDesafioPOO\bin\Debug\net8.0\SmartphoneDesafioPOO.deps.json
+E:\Área de Trabalho\ㅤㅤㅤㅤㅤㅤㅤ\codigos-C#\SmartphoneDesafioPOO\bin\Debug\net8.0\SmartphoneDesafioPOO.runtimeconfig.json
+E:\Área de Trabalho\ㅤㅤㅤㅤㅤㅤㅤ\codigos-C#\SmartphoneDesafioPOO\bin\Debug\net8.0\SmartphoneDesafioPOO.dll
+E:\Área de Trabalho\ㅤㅤㅤㅤㅤㅤㅤ\codigos-C#\SmartphoneDesafioPOO\bin\Debug\net8.0\SmartphoneDesafioPOO.pdb
+E:\Área de Trabalho\ㅤㅤㅤㅤㅤㅤㅤ\codigos-C#\SmartphoneDesafioPOO\obj\Debug\net8.0\SmartphoneDesafioPOO.GeneratedMSBuildEditorConfig.editorconfig
+E:\Área de Trabalho\ㅤㅤㅤㅤㅤㅤㅤ\codigos-C#\SmartphoneDesafioPOO\obj\Debug\net8.0\SmartphoneDesafioPOO.AssemblyInfoInputs.cache
+E:\Área de Trabalho\ㅤㅤㅤㅤㅤㅤㅤ\codigos-C#\SmartphoneDesafioPOO\obj\Debug\net8.0\SmartphoneDesafioPOO.AssemblyInfo.cs
+E:\Área de Trabalho\ㅤㅤㅤㅤㅤㅤㅤ\codigos-C#\SmartphoneDesafioPOO\obj\Debug\net8.0\SmartphoneDesafioPOO.csproj.CoreCompileInputs.cache
+E:\Área de Trabalho\ㅤㅤㅤㅤㅤㅤㅤ\codigos-C#\SmartphoneDesafioPOO\obj\Debug\net8.0\SmartphoneDesafioPOO.dll
+E:\Área de Trabalho\ㅤㅤㅤㅤㅤㅤㅤ\codigos-C#\SmartphoneDesafioPOO\obj\Debug\net8.0\refint\SmartphoneDesafioPOO.dll
+E:\Área de Trabalho\ㅤㅤㅤㅤㅤㅤㅤ\codigos-C#\SmartphoneDesafioPOO\obj\Debug\net8.0\SmartphoneDesafioPOO.pdb
+E:\Área de Trabalho\ㅤㅤㅤㅤㅤㅤㅤ\codigos-C#\SmartphoneDesafioPOO\obj\Debug\net8.0\SmartphoneDesafioPOO.genruntimeconfig.cache
+E:\Área de Trabalho\ㅤㅤㅤㅤㅤㅤㅤ\codigos-C#\SmartphoneDesafioPOO\obj\Debug\net8.0\ref\SmartphoneDesafioPOO.dll
